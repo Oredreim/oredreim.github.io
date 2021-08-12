@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c614264d6d3c85f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "238f973e83fc399d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/welcome-to-jekyll/2021-08-01-Forest.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30f1743849af53fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b407983a56c10a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0a64da630db0ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fe48daf7b8f5651",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 547
+  },
+  "right": {
+    "id": "e3c000858058a1c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6125943aff202b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399e0c6b74b20674",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/welcome-to-jekyll/2021-08-01-Forest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "238f973e83fc399d",
+  "lastOpenFiles": [
+    "_posts/welcome-to-jekyll/2021-08-01-Forest.md"
+  ]
+}
