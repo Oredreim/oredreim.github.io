@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "_posts/Informacion General.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "_posts/Informacion General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "238f973e83fc399d",
   "lastOpenFiles": [
+    "_posts/Informacion General.md",
     "about.md",
     "index.md",
     "_posts/welcome-to-jekyll/2021-08-01-Forest.md",
@@ -96,7 +97,6 @@
     "assets/img/forest/Pasted image 20210722150208.png",
     "assets/img/forest/Pasted image 20210722150123.png",
     "assets/img/forest/Pasted image 20210722143702.png",
-    "assets/img/forest/Pasted image 20210722143655.png",
-    "assets/img/forest/Pasted image 20210722141645.png"
+    "assets/img/forest/Pasted image 20210722143655.png"
   ]
 }
