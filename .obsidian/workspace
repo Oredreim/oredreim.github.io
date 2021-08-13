@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/Informacion General.md",
+            "file": "_posts/2021-07-29-Atom.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547
+    "width": 510
   },
   "right": {
     "id": "e3c000858058a1c1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Informacion General.md",
+                "file": "_posts/2021-07-29-Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "238f973e83fc399d",
   "lastOpenFiles": [
-    "_posts/Informacion General.md",
-    "about.md",
-    "index.md",
-    "_posts/welcome-to-jekyll/2021-08-01-Forest.md",
-    "assets/img/forest/Pasted image 20210722150721.png",
-    "assets/img/forest/Pasted image 20210722150309.png",
-    "assets/img/forest/Pasted image 20210722150208.png",
-    "assets/img/forest/Pasted image 20210722150123.png",
-    "assets/img/forest/Pasted image 20210722143702.png",
-    "assets/img/forest/Pasted image 20210722143655.png"
+    "_posts/2021-07-29-Atom.md",
+    "assets/img/atom/Pasted image 20210716113959.png",
+    "assets/img/atom/Pasted image 20210716113549.png",
+    "assets/img/atom/Pasted image 20210716113432.png",
+    "assets/img/atom/Pasted image 20210716113351.png",
+    "assets/img/atom/Pasted image 20210716113220.png",
+    "assets/img/atom/Pasted image 20210712123900.png",
+    "assets/img/atom/Pasted image 20210712123744.png",
+    "assets/img/atom/Pasted image 20210712121542.png",
+    "assets/img/atom/Pasted image 20210712121412.png"
   ]
 }
