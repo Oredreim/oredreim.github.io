@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-08-22-Lame.md",
+            "file": "_posts/2021-10-26-Shocker.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-08-22-Lame.md",
+                "file": "_posts/2021-10-26-Shocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "238f973e83fc399d",
   "lastOpenFiles": [
+    "_posts/2021-10-26-Shocker.md",
+    "_posts/2021-08-18-Love.md",
     "_posts/2021-08-22-Lame.md",
     "Pasted image 20211022202750.png",
     "index.md",
     "assets/img/lame/1.png",
     "_posts/2021-10-18-Calamity.md",
-    "_posts/2021-08-18-Love.md",
     "_posts/2021-07-20-Spectra.md",
-    "_posts/Untitled.md",
     "_posts/welcome-to-jekyll/2021-08-22-Lame.md",
     "_posts/2021-07-29-Atom.md"
   ]
