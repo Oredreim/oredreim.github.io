@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-10-27-Devel.md",
+            "file": "_posts/2021-10-29-Bashed.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-10-27-Devel.md",
+                "file": "_posts/2021-10-29-Bashed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "238f973e83fc399d",
   "lastOpenFiles": [
+    "_posts/2021-10-29-Bashed.md",
     "_posts/2021-10-27-Devel.md",
     "_posts/2021-10-26-Shocker.md",
     "_posts/2021-10-18-Calamity.md",
@@ -96,7 +97,6 @@
     "assets/img/devel/2.png",
     "assets/img/devel/3.png",
     "assets/img/devel.md",
-    "_posts/2021-08-18-Love.md",
-    "_posts/2021-08-22-Lame.md"
+    "_posts/2021-08-18-Love.md"
   ]
 }
