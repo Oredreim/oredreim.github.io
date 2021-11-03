@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-10-29-Bashed.md",
+            "file": "_posts/2021-11-01-Optimum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-10-29-Bashed.md",
+                "file": "_posts/2021-11-01-Optimum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "238f973e83fc399d",
   "lastOpenFiles": [
+    "_posts/2021-11-01-Optimum.md",
+    "Pasted image 20211103123644.png",
+    "Pasted image 20211103123639.png",
+    "assets/img/optimum/4.png",
+    "assets/img/saweria-button.png",
     "_posts/2021-10-29-Bashed.md",
     "_posts/2021-10-27-Devel.md",
     "_posts/2021-10-26-Shocker.md",
     "_posts/2021-10-18-Calamity.md",
-    "assets/img/devel/5.png",
-    "assets/img/devel/4.png",
-    "assets/img/devel/2.png",
-    "assets/img/devel/3.png",
-    "assets/img/devel.md",
-    "_posts/2021-08-18-Love.md"
+    "assets/img/devel/5.png"
   ]
 }
