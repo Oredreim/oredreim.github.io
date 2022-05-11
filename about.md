@@ -10,9 +10,8 @@ Energetic, ambitious person who has developed a mature and responsible approach 
 
 <h1 align="left">Oredreim (Cristian Piñeros) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-- 🔭 Im working at [ScotiaBank](https://www.scotiabank.com/global/en/global-site.html).
-- 🌱 Studing at [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
-CSOC Analyst At ScotiaBank | Pentester | Ethical Hacker | Cybersecurity Specialist
+
+REDTEAM | Pentester | Ethical Hacker | Cybersecurity Specialist
 
 
 You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
