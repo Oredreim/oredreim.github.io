@@ -8,7 +8,7 @@ comments: false
 
 Energetic, ambitious person who has developed a mature and responsible approach to ethical hacking and every field related to Cybersecurity. I have Knowledge pen-testing, forensic and software development. Ex-perience with tools like Python, BASH, SQL, SQL Injection, BurpSuite, GitHub, Parrot and Kali Linux.
 
-<h1 align="left">Oredreim (Cristian Piñeros) <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
+<h1 align="left">Oredreim <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
 
 REDTEAM | Pentester | Ethical Hacker | Cybersecurity Specialist
@@ -18,5 +18,5 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
 
 **may u needs ✨**
 
-- {{ site.author.email }}
+- 
 - github.com/{{ site.author.github }}
